@@ -1,2 +1,11 @@
 
-\.idea/workspace\.xml
+\.gradle/
+
+
+\.idea/
+
+
+build/*
+*.class
+
+out/production/classes/META-INF/
